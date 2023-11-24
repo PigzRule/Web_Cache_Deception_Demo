@@ -7,3 +7,4 @@ Base Code: https://github.com/bettercalln1ck/web_cache_deception
 Sources for general information:
 - https://portswigger.net/daily-swig/path-confusion-web-cache-deception-threatens-user-information-online
 - https://blog.cloudflare.com/understanding-our-cache-and-the-web-cache-deception-attack
+- https://book.hacktricks.xyz/pentesting-web/cache-deception
