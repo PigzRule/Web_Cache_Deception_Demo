@@ -1,4 +1,4 @@
-CSEC 302 Demo - Web Cache Deception
+# CSEC 302 Demo - Web Cache Deception
 
 This is a simple demo designed to replicate the Web-Cache Deception in an easy-to-understand form, without all the complications attached. 
 
